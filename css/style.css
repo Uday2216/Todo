@@ -1,0 +1,15 @@
+.content{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+.navbar-nav .nav-link,
+.navbar-brand,
+.nav-link.active,
+.home-link,
+.home-link.nav-link.active {
+  color: white;
+}
+
+
